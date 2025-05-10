@@ -159,10 +159,3 @@ For queries or collaborations, feel free to connect:
 ---
 
 **If you find this project useful, please consider giving it a ⭐!**
-
-```
-
----
-
-Let me know if you want me to save this as a file or include images/badges for GitHub visuals.
-```
